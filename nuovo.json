@@ -1,0 +1,38 @@
+[
+  {
+    "Title": "Sig",
+    "First Name": "Mario",
+    "Middle Name": "",
+    "Last Name": "Rossi",
+    "Mobile Phone": "123456789",
+    "E-mail Address": "Mario.Rossi@studente.com",
+    "Date of Birth": "1990-01-15",
+    "Address": "Via Roma, 123",
+    "City": "Milano",
+    "Occupation": "Student"
+  },
+  {
+    "Title": "Sig.ra",
+    "First Name": "Anna",
+    "Middle Name": "Maria",
+    "Last Name": "Bianchi",
+    "Mobile Phone": "",
+    "E-mail Address": "Anna.Bianchi@studente.com",
+    "Date of Birth": "1985-03-22",
+    "Address": "Via Verdi, 456",
+    "City": "Roma",
+    "Occupation": "Teacher"
+  },
+  {
+    "Title": "Sig.ra",
+    "First Name": "Luca",
+    "Middle Name": "",
+    "Last Name": "Verdi",
+    "Mobile Phone": "987654321",
+    "E-mail Address": "Luca.Verdi@studente.com",
+    "Date of Birth": "1992-08-10",
+    "Address": "Corso Italia, 789",
+    "City": "Napoli",
+    "Occupation": "Engineer"
+  }
+]
